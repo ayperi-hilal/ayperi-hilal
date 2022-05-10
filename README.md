@@ -2,13 +2,6 @@
 I am a young and enthusiastic developer. I am currently working on  C#. I am developing ERP system projects.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayperi-hilal)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
