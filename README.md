@@ -69,6 +69,3 @@ I am a young and enthusiastic developer. I am currently working on  C#. I am dev
   <a href="https://www.linkedin.com/in/hilal-narman-21029216a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayperi-hilal" height="30" width="40" /></a>
    
 </p>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ayperi-hilal&left_color=blue&right_color=pink)
