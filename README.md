@@ -61,11 +61,7 @@ I am a young and enthusiastic developer. I am currently working on  C#. I am dev
 
 
 ### Connect with me:
-🐧 [Discord][Discord]
-
-[Discord]: https://discord.gg/m5sAWkqZ
-<p align="left">
-  <a href="https://instagram.com/bilgisayar_matematik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafakoca99" height="30" width="40" /></a>
+  
   <a href="https://www.linkedin.com/in/hilal-narman-21029216a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayperi-hilal" height="30" width="40" /></a>
    
 </p>
