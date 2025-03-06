@@ -1,5 +1,5 @@
 ### Hi there I am Hilal 👋
-I am a young and enthusiastic developer. I am currently working on  C#. I am developing ERP system projects.
+I am a young and enthusiastic developer.
 
 
 <h3 align="left">Languages and Tools:</h3>
