@@ -54,8 +54,8 @@ I am a young and enthusiastic developer.
 
 - 🌱 I’m currently learning everything
 - 👯 I'm looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn and more learn
-- ⚡ Fun fact: I love spending time with ducks 🦆 and painting wood🎨🖌
+- 🥅 20∞ Goals: Learn and more learn
+- ⚡ Fun fact: Birds love hanging out and painting wood  and painting wood🎨🖌
 
 
 
